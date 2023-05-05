@@ -19,4 +19,7 @@ The process of going through several trials resulted in achieving the following 
 * I = 0.0005
 * D = 0.001
 
+![graph_1](https://github.com/DishaJr/Control-and-Trajectory-Tracking-for-Autonomous-Vehicles/blob/main/Screenshot%20from%202023-05-05%2018-52-05.png)
+![graph_2](https://github.com/DishaJr/Control-and-Trajectory-Tracking-for-Autonomous-Vehicles/blob/main/Screenshot%20from%202023-05-05%2018-53-13.png)
+#
 ![gif_1](https://github.com/DishaJr/Control-and-Trajectory-Tracking-for-Autonomous-Vehicles/blob/main/ezgif.com-video-to-gif%20(3).gif)
