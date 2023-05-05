@@ -25,4 +25,4 @@ The process of going through several trials resulted in achieving the following 
 ![graph_2](https://github.com/DishaJr/Control-and-Trajectory-Tracking-for-Autonomous-Vehicles/blob/main/Screenshot%20from%202023-05-05%2018-53-13.png)
 #
 ## **Questions :**
-** Add the plots to your report and explain them :**
+**Add the plots to your report and explain them :**
