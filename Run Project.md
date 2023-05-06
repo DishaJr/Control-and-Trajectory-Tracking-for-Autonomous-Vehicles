@@ -1,5 +1,13 @@
 # **Project sumamry and how to run it :**
 
+## **Project Summary :**
+
+The project introduces the application of designing a PID controller to perform vehicle trajectory tracking. A trajectory will be given as an array of locations, and CARLA simulation environment will be provided. The efficiency of the PID controller will be tested on the CARLA simulator used in the industry.
+
+The project provides the dynamic model of the vehicle, as well as an approximate distribution of the possible perturbations. The code required to run the CARLA simulator is provided, along with a template in C++ for the controller.
+
+#
+
 The code and results
 Find the results graphs and videos in folder images above with some fail trials videos as I am trying to tune the pid to have final 2 accepted but not so good trials.
 
