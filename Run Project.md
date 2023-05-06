@@ -5,15 +5,15 @@ Find the results graphs and videos in folder images above with some fail trials 
 
 Find the codes used exists separtly as named main.cpp , pid_controller.cpp and pid_controller.h. it is possible to take those codes content to copy in Udacity workspace instead of exist codes and run or follow installation method to have same results.
 
-**Installation**
+**-> Installation**
 
 Run the following commands to install the starter code in the Udacity Workspace:
 
-**Clone the repository:**
+**-> Clone the repository:**
 
 git clone https://github.com/Shenhapy/Udacity_Control-and-Trajectory-Tracking_project.git
 
-**Run Carla Simulator**
+**-> Run Carla Simulator**
 
 Open new window
 
@@ -21,7 +21,7 @@ Open new window
 * cd /opt/carla-simulator/
 * SDL_VIDEODRIVER=offscreen ./CarlaUE4.sh -opengl
 
-**Compile and Run the Controller**
+**-> Compile and Run the Controller**
 
 Open new window
 
@@ -33,7 +33,7 @@ Open new window
 * cmake .
 * make (This last command compiles your c++ code, run it after every change in your code)
 
-**Testing**
+**-> Testing**
 
 To test your installation run the following commands.
 
