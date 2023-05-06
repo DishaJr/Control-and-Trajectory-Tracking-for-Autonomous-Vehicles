@@ -14,6 +14,7 @@ Run the following commands to install the starter code in the Udacity Workspace:
 git clone https://github.com/Shenhapy/Udacity_Control-and-Trajectory-Tracking_project.git
 
 **Run Carla Simulator**
+
 Open new window
 
 * su - student // Will say permission denied, ignore and continue
@@ -33,6 +34,7 @@ Open new window
 * make (This last command compiles your c++ code, run it after every change in your code)
 
 **Testing**
+
 To test your installation run the following commands.
 
 cd Udacity_Control-and-Trajectory-Tracking_project/project
