@@ -37,9 +37,10 @@ Open new window
 
 To test your installation run the following commands.
 
-cd Udacity_Control-and-Trajectory-Tracking_project/project
-./run_main_pid.sh This will silently fail ctrl + C to stop
-./run_main_pid.sh (again) Go to desktop mode to see CARLA
+* cd Udacity_Control-and-Trajectory-Tracking_project/project
+* ./run_main_pid.sh This will silently fail ctrl + C to stop
+* ./run_main_pid.sh (again) Go to desktop mode to see CARLA
+
 If error bind is already in use, or address already being used
 
 * ps -aux | grep carla
